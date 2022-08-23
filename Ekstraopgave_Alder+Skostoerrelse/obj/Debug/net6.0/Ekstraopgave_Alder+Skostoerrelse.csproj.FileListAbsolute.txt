@@ -1,0 +1,30 @@
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.csproj.AssemblyReference.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.AssemblyInfoInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.AssemblyInfo.cs
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.exe
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.deps.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.runtimeconfig.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\ref\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\ref\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.genruntimeconfig.cache
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.exe
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.deps.json
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.runtimeconfig.json
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\bin\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.pdb
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.csproj.AssemblyReference.cache
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.AssemblyInfoInputs.cache
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.AssemblyInfo.cs
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.csproj.CoreCompileInputs.cache
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\refint\Ekstraopgave_Alder+Skostoerrelse.dll
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.pdb
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\Ekstraopgave_Alder+Skostoerrelse.genruntimeconfig.cache
+C:\Users\nicla\Desktop\Git-projects\Ekstraopgave_Alder+Skostoerrelse\Ekstraopgave_Alder+Skostoerrelse\obj\Debug\net6.0\ref\Ekstraopgave_Alder+Skostoerrelse.dll
